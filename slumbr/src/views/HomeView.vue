@@ -17,7 +17,7 @@ import TheWelcome from '../components/TheWelcome.vue'
     <div class="features">
       <div class="card">
         <h3>Regista o teu sono</h3>
-        <p>Anota as horas dormidas todos os dias.</p>
+        <p>Anota as horas dormidas todos os dias.</p>d
       </div>
 
       <div class="card">
@@ -26,7 +26,7 @@ import TheWelcome from '../components/TheWelcome.vue'
       </div>
 
       <div class="card">
-        <h3>Gamificação</h3>
+        <h3>Gamificação</h3>     
         <p>Ganha XP, sobe de nível e desbloqueia badges.</p>
       </div>
     </div>
