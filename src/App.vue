@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { computed } from 'vue';
 import { useRoute } from 'vue-router';
-import Header from "./components/layout/Header.vue";
+
 
 const route = useRoute();
 const showHeader = computed(() => route.path !== '/');
